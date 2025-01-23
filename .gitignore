@@ -1,2 +1,9 @@
 Maven&graddle/maven/maven-tutorial/target
-Maven&graddle/maven/maven-tutorial/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+*.log
+*.tmp
+.idea/
+.vscode/
+.DS_Store
+Maven&graddle/maven/maven-tutorial/build
+node_modules/
+Maven&graddle/maven/maven-tutorial/.gradle
